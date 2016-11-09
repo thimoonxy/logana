@@ -105,7 +105,7 @@ Slice count | Elapsed | Best
 
 #### Example 1
 
-- Running directly without orgs/flags specified, it shows http code count ranking by default :
+- Running directly without args/flags specified, it shows http code count ranking by default :
 
 ```
 root@foo:~# logana
