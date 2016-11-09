@@ -315,7 +315,7 @@ Till server timestamp: 20/Jan/2016:18:00:00
 
 ## Todo list
  - [x] ** Basic function **
- - []  ** Log file path customization, instead of firmly read from /opt/varnish/ **
+ - [ ]  ** Log file path customization, instead of firmly read from /opt/varnish/ **
 
 
 ## Reference
