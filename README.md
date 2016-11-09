@@ -1,4 +1,4 @@
-# subnetting
+# logana
 ![image](https://github.com/thimoonxy/logana/blob/master/docs/logo.jpg)
 
 Logana.py is a CLI help neteng and sysadmin speed up analyse varnish logs.
@@ -314,8 +314,12 @@ Till server timestamp: 20/Jan/2016:18:00:00
 
 
 ## Todo list
- - [x] **TBD**
+ - [x] ** Basic function **
+ - []  ** Log file path customization, instead of firmly read from /opt/varnish/ **
 
 
 ## Reference
+Here's also a golang version, without using method of bisection, but it should be good enough to check live logs on platform where has no python installed.
+Please check the repo [go-logana](https://github.com/thimoonxy/practiceGo/tree/master/logana).
+
 For more ops tools, check [opsPykit](https://github.com/thimoonxy/opsPyKit).
